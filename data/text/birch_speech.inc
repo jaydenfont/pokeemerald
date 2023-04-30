@@ -1,5 +1,6 @@
 gText_Birch_Welcome::
 	.string "Hi! Sorry to keep you waiting!\p"
+	.string "This game was modded by Jayden\p"
 	.string "Welcome to the world of POKéMON!\p"
 	.string "My name is BIRCH.\p"
 	.string "But everyone calls me the POKéMON\n"
